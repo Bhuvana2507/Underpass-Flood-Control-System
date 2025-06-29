@@ -111,8 +111,3 @@ The system continuously monitors the water level in the underpass using an analo
 - Include camera and AI for real-time surveillance
 
 ---
-
-## 📸 Visual Reference
-
-![Block Diagram](https://chatgpt.com/backend-api/estuary/content?id=file-LLDZNSU7hDVv55VmJf9hgh&ts=486448&p=fs&cid=1&sig=c9feb9d76866cadc536691f9b574f190937008a4db49ae456207a0270a8ad413)  
-![Circuit Diagram](https://chatgpt.com/backend-api/estuary/content?id=file-TpurSoV6c23ubxPQc2tRNr&ts=486448&p=fs&cid=1&sig=177f2a556d88b3ed28e9553da2dd245bb67d88bfd6f24c7e307fa2da4db2ac46)
